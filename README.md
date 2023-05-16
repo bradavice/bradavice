@@ -1,4 +1,1 @@
-# bradavice
-
-
-theme:jelkyn
+start bradavice/public/index.html
